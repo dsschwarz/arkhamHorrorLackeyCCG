@@ -1,4 +1,4 @@
-AHLCG	06-22-17
+AHLCGExtended	06-22-17
 images/backgrounds/AHmapback.jpg	https://dl.dropboxusercontent.com/s/1roqair64y71fz7/AHmapback.jpg	-338458
 plugins/AHLCG/README.txt	https://dl.dropboxusercontent.com/s/xtzsylijl61lq8r/README.txt	221578
 plugins/AHLCG/updatelist.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/updatelist.txt	8246865
@@ -15,44 +15,6 @@ plugins/AHLCG/images/phase4.jpg	https://dl.dropboxusercontent.com/s/h8q9kbsyyg29
 plugins/AHLCG/images/arrow.png	https://dl.dropboxusercontent.com/s/5o070obon1a1tq6/arrow.png	-6126
 plugins/AHLCG/images/ex.png	https://dl.dropboxusercontent.com/s/srj2p3l8haxdggg/ex.png	-24533
 plugins/AHLCG/decks/00.Starter.Agnes.dek	https://dl.dropboxusercontent.com/s/vl8cgme5j18rohd/00.Starter.Agnes.dek	211501
-plugins/AHLCG/decks/00.Starter.Ashcan.dek	https://dl.dropboxusercontent.com/s/0kzcqvosl2uk3gx/00.Starter.Ashcan.dek	206983
-plugins/AHLCG/decks/00.Starter.Daisy.dek	https://dl.dropboxusercontent.com/s/vq1jvt42kkzoonk/00.Starter.Daisy.dek	214008
-plugins/AHLCG/decks/00.Starter.Jenny.dek	https://dl.dropboxusercontent.com/s/lmwvxy2a5s853z4/00.Starter.Jenny.dek	204948
-plugins/AHLCG/decks/00.Starter.Jim.dek	https://dl.dropboxusercontent.com/s/98facivanf2stp4/00.Starter.Jim.dek	206697
-plugins/AHLCG/decks/00.Starter.Rex.dek	https://dl.dropboxusercontent.com/s/ir3kdrdv9qygevr/00.Starter.Rex.dek	208268
-plugins/AHLCG/decks/00.Starter.Roland.dek	https://dl.dropboxusercontent.com/s/8oadah4fa0z749t/Starter_Roland.dek	206040
-plugins/AHLCG/decks/00.Starter.Skids.dek	https://dl.dropboxusercontent.com/s/pa1f1p6h1tvfbc9/00.Starter.Skids.dek	203937
-plugins/AHLCG/decks/00.Starter.Wendy.dek	https://dl.dropboxusercontent.com/s/cz873yiewqxb35z/00.Starter.Wendy.dek	207711
-plugins/AHLCG/decks/00.Starter.Zoey.dek	https://dl.dropboxusercontent.com/s/cwk16idh6xn3k76/00.Starter.Zoey.dek	199842
-plugins/AHLCG/decks/01.0.Weaknesses.Basic.dek	https://dl.dropboxusercontent.com/s/vu5caakl6gdhf6x/01.0.Weaknesses.Basic.dek	64825
-plugins/AHLCG/decks/01.1.NotZ.The.Gathering.dek	https://dl.dropboxusercontent.com/s/6aa5f2jfdfo9uax/01.1.NotZ.The.Gathering.dek	288450
-plugins/AHLCG/decks/01.2.NotZ.The.Midnight.Masks.dek	https://dl.dropboxusercontent.com/s/8zq9a1ru3s62f0z/01.2.NotZ.The.Midnight.Masks.dek	318280
-plugins/AHLCG/decks/01.3.NotZ.The.Devourer.Below.dek	https://dl.dropboxusercontent.com/s/fl02lz8eyjjr4gt/01.3.NotZ.The.Devourer.Below.dek	385458
-plugins/AHLCG/decks/01.4.NotZ.Easy.Chaos.dek	https://dl.dropboxusercontent.com/s/xmt6v5c6sathxie/01.4.NotZ.Easy.Chaos.dek	126044
-plugins/AHLCG/decks/01.5.Notz.Standard.Chaos.dek	https://dl.dropboxusercontent.com/s/49pebb5dd7ye6mb/01.5.NotZ.Standard.Chaos.dek	127212
-plugins/AHLCG/decks/01.6.NotZ.Hard.Chaos.dek	https://dl.dropboxusercontent.com/s/nw54gntzpl05l64/01.6.NotZ.Hard.Chaos.dek	134689
-plugins/AHLCG/decks/01.7.NotZ.Expert.Chaos.dek	https://dl.dropboxusercontent.com/s/a9ni4whaa8t8lpp/01.7.NotZ.Expert.Chaos.dek	143853
-plugins/AHLCG/decks/02.1.CotR.Curse.of.the.Rougarou.dek	https://dl.dropboxusercontent.com/s/2i5czdsn0ld24hj/02.1.CotR.Curse.of.the.Rougarou.dek	477304
-plugins/AHLCG/decks/02.2.CotR.Standard.Chaos.dek	https://dl.dropboxusercontent.com/s/nm9qv9v2b8ikkg9/02.2.CotR.Standard.Chaos.dek	187503
-plugins/AHLCG/decks/02.3.CotR.Hard.Chaos.dek	https://dl.dropboxusercontent.com/s/juvjuh2dihgeypf/02.3.CotR.Hard.Chaos.dek	202756
-plugins/AHLCG/decks/03.1.CoH.Carnevale.of.Horrors.dek	https://dl.dropboxusercontent.com/s/k0k83xbmfs2x6zk/03.1.CoH.Carnevale.of.Horrors.dek	400504
-plugins/AHLCG/decks/03.2.CoH.Standard.Chaos.dek	https://dl.dropboxusercontent.com/s/xvee4egiss0ap3y/03.2.CoH.Standard.Chaos.dek	148975
-plugins/AHLCG/decks/03.3.CoH.Hard.Chaos.dek	https://dl.dropboxusercontent.com/s/f0l5mqcqnet3hmx/03.3.CoH.Hard.Chaos.dek	149081
-plugins/AHLCG/decks/04.0.TDL.Weaknesses.Basic.dek	https://dl.dropboxusercontent.com/s/pgs0nyf9q4dourv/04.0.TDL.Weaknesses.Basic.dek	41698
-plugins/AHLCG/decks/04.1.TDL.Easy.Chaos.dek	https://dl.dropboxusercontent.com/s/eore3fbup4gd0ck/04.1.TDL.Easy.Chaos.dek	118824
-plugins/AHLCG/decks/04.2.TDL.Standard.Chaos.dek	https://dl.dropboxusercontent.com/s/ws9ngwy3onyvoft/04.2.TDL.Standard.Chaos.dek	119992
-plugins/AHLCG/decks/04.3.TDL.Hard.Chaos.dek	https://dl.dropboxusercontent.com/s/xfmy9qcp6g79lai/04.3.TDL.Hard.Chaos.dek	127469
-plugins/AHLCG/decks/04.4.TDL.Expert.Chaos.dek	https://dl.dropboxusercontent.com/s/tqv80qp9nwlz9im/04.4.TDL.Expert.Chaos.dek	136633
-plugins/AHLCG/decks/04.5.TDL.1A.Extracurricular.Activity.dek	https://dl.dropboxusercontent.com/s/voqjnesmg5d30jn/04.5.TDL.1A.Extracurricular.Activity.dek	389101
-plugins/AHLCG/decks/04.6.TDL.1B.The.House.Always.Wins.dek	https://dl.dropboxusercontent.com/s/n3r83bri4xhhdp0/04.6.TDL.1B.The.House.Always.Wins.dek	349732
-plugins/AHLCG/decks/04.7.TDL.2.The.Miskatonic.Museum.dek	https://dl.dropboxusercontent.com/s/w4polbeicbptvk1/04.7.TDL.2.The.Miskatonic.Museum.dek	400737
-plugins/AHLCG/decks/04.8.TDL.3.Essex.County.Express.dek	https://dl.dropboxusercontent.com/s/1ekpg9k35f3pqta/04.8.TDL.3.Essex.County.Express.dek	448012
-plugins/AHLCG/decks/04.9.TDL.4.Blood.On.The.Altar.dek	https://dl.dropboxusercontent.com/s/559owo758yszz3z/04.9.TDL.4.Blood.On.The.Altar.dek	488067
-plugins/AHLCG/decks/05.0.TDL.5.Undimensioned.and.Unseen.dek	https://dl.dropboxusercontent.com/s/465w9rn4nsrdck1/05.0.TDL.5.Undimensioned.and.Unseen.dek	416739
-plugins/AHLCG/decks/100.KF.Knightfall.Fan.Scenario.dek	https://dl.dropboxusercontent.com/s/y9a6coa4qkgvwov/100.KF.Knightfall.Fan.Scenario.dek	491669
-plugins/AHLCG/decks/101.TPW.The.Pensher.Wyrm.Fan.Scenario.dek	https://dl.dropboxusercontent.com/s/o8ih06fvibi07s4/101.TPW.The.Pensher.Wyrm.Fan.Scenario.dek	428266
-plugins/AHLCG/decks/102.TLoB.The_Limens.of.Belief.Fanmade.Scenario.dek	https://dl.dropboxusercontent.com/s/6em2bgwgp3cuf84/102.TLoB.The_Limens.of.Belief.Fanmade.Scenario.dek	609257
-plugins/AHLCG/decks/200.AJoP.S1.dek	https://dl.dropboxusercontent.com/s/lq77rdrblprxue7/200.AJoP.S1.dek	306509
 CardImageURLs:
 Core/encounter.jpg	https://dl.dropboxusercontent.com/s/0s8ixef56yebimx/encounter.jpg
 CotR/encounter.jpg	https://dl.dropboxusercontent.com/s/vwgi17q6h7ix345/encounter.jpg
