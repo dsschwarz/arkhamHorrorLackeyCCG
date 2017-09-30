@@ -1,0 +1,10 @@
+
+<version>
+
+<lastupdateYYMMDD>170622</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>https://dl.dropboxusercontent.com/s/b441dcvsl2hbvjx/version.txt</versionurl>
+<updateurl>https://dl.dropboxusercontent.com/s/pf8rvcv505gwdyd/updatelist.txt</updateurl>
+<message>Up to Undimensioned and Unseen! Added new Fanmade Scenarios!</message>
+
+</version>
