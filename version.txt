@@ -1,10 +1,10 @@
 
 <version>
 
-<lastupdateYYMMDD>170622</lastupdateYYMMDD>
+<lastupdateYYMMDD>170930</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://dl.dropboxusercontent.com/s/b441dcvsl2hbvjx/version.txt</versionurl>
-<updateurl>https://dl.dropboxusercontent.com/s/pf8rvcv505gwdyd/updatelist.txt</updateurl>
+<versionurl>https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/updatelist.txt</updateurl>
 <message>Up to Undimensioned and Unseen! Added new Fanmade Scenarios!</message>
 
 </version>
