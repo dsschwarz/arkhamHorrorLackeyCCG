@@ -747,3 +747,7 @@ AJoP_S1/AJoP_S1_028.jpg	https://dl.dropboxusercontent.com/s/ydqs9q46jmvm93r/AJoP
 AJoP_S1/AJoP_S1_028b.jpg	https://dl.dropboxusercontent.com/s/1x2jy6ashiaeian/AJoP_S1_028b.jpg
 AJoP_S1/AJoP_S1_029.jpg	https://dl.dropboxusercontent.com/s/dz9bji5g4atynap/AJoP_S1_029.jpg
 AJoP_S1/AJoP_S1_029b.jpg	https://dl.dropboxusercontent.com/s/t1zdum39fglled5/AJoP_S1_029b.jpg
+PtC/lola.png	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/carcosa/lola.png
+PtC/lola_back.png	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/carcosa/lola_back.png
+PtC/crisis_of_identity.png	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/carcosa/crisis_of_identity.png
+PtC/improvisation.png	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/carcosa/improvisation.png
