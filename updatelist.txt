@@ -1,11 +1,11 @@
 AHLCG	06-22-17
 images/backgrounds/AHmapback.jpg	https://dl.dropboxusercontent.com/s/1roqair64y71fz7/AHmapback.jpg	-338458
 plugins/AHLCG/README.txt	https://dl.dropboxusercontent.com/s/xtzsylijl61lq8r/README.txt	221578
-plugins/AHLCG/updatelist.txt	https://dl.dropboxusercontent.com/s/pf8rvcv505gwdyd/updatelist.txt	8246865
-plugins/AHLCG/version.txt	https://dl.dropboxusercontent.com/s/b441dcvsl2hbvjx/version.txt	31441
-plugins/AHLCG/pluginpreferences.txt	https://dl.dropboxusercontent.com/s/w9g7a72uyouycdq/pluginpreferences.txt	329555
-plugins/AHLCG/plugininfo.txt	https://dl.dropboxusercontent.com/s/huqpdum7g4zvol1/plugininfo.txt	1034789
-plugins/AHLCG/sets/carddata.txt	https://dl.dropboxusercontent.com/s/eq95q4tano4ta96/carddata.txt	3977025
+plugins/AHLCG/updatelist.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/updatelist.txt	8246865
+plugins/AHLCG/version.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/version.txt	31441
+plugins/AHLCG/pluginpreferences.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/pluginpreferences.txt	329555
+plugins/AHLCG/plugininfo.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/plugininfo.txt	1034789
+plugins/AHLCG/sets/carddata.txt	https://raw.githubusercontent.com/dsschwarz/arkhamHorrorLackeyCCG/master/sets/carddata.txt	3977025
 plugins/AHLCG/sets/setimages/general/cardback.jpg	https://dl.dropboxusercontent.com/s/umx2rfxfi52eot4/cardback.jpg	-13703
 plugins/AHLCG/sets/setimages/general/spawned.jpg	https://dl.dropboxusercontent.com/s/ezo4qwkrne2ot7g/spawned.jpg	35352
 plugins/AHLCG/images/phase1.jpg	https://dl.dropboxusercontent.com/s/j3juwzntwwe7p59/phase1.jpg	-359544
